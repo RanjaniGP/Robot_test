@@ -2,7 +2,7 @@
 Documentation  Verifies if UTF is installed properly
 
 *** Variables ***
-${Message}  How are you new?
+${Message}  How are you jenkins?
 
 
 *** Test Cases ***

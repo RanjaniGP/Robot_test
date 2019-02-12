@@ -2,7 +2,7 @@
 Documentation  Verifies if UTF is installed properly
 
 *** Variables ***
-${Message}  How are you Manasa?
+${Message}  How are you UTF?
 
 
 *** Test Cases ***
